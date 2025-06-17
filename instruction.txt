@@ -1,10 +1,12 @@
 1. git init
 2. git remote add origin (relink)
 
+used everytime 
 stagging
 3. git add.
 commit
 4. git commit -m "commit name"
+push 
 5. git push origin master 
 
 
